@@ -9,7 +9,7 @@ const Contact = () => {
             <div className='space-y-8'>
                 <h2 className='text-5xl'data-aos="flip-right">Get in touch</h2>
                 <p className='text-gray-600 text-[18px] pt-2' data-aos="flip-right">
-                    For any inquiries or assistance, please contact us,or send me a message by submitting the form through our website's support page."
+                    For any inquiries or assistance, please contact us,or send me a message by submitting the form through our website&apos;s support page.
                   </p>
 
                     <div className='flex gap-3 items-center' data-aos="flip-right">

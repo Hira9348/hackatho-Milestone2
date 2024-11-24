@@ -1,5 +1,5 @@
 import React from 'react'
-import { AiOutlineMenu,AiOutlineClose } from "react-icons/ai";
+import { AiOutlineClose } from "react-icons/ai";
 import { useState } from 'react';
 
 const Navbar = () => {
